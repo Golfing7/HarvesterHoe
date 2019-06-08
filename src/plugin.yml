@@ -1,0 +1,8 @@
+author: Golfing8
+main: org.golfing8.Main
+version: 1.0
+name: HarvesterHoe
+commands:
+  harvesterhoe:
+    usage: /harvesterhoe
+    aliases: [hh, harvesterhoes]
